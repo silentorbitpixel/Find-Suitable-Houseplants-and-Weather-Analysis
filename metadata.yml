@@ -1,0 +1,14 @@
+---
+:id: 396588038
+:submitters:
+- :name: Jason Choi
+  :email: jdc34@uw.edu
+- :name: Elizabeth Astor
+  :email: esastor@uw.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2026-03-10 01:10:18.636173000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2026-03-09 18:10:18.636173000 Z
+:status: processed
+:score: 49.0

@@ -1,0 +1,36 @@
+Plant_ID,Height_cm,Leaf_Count,New_Growth_Count,Health_Notes,Watering_Amount_ml,Watering_Frequency_days,Sunlight_Exposure,Room_Temperature_C,Humidity_%,Fertilizer_Type,Fertilizer_Amount_ml,Pest_Presence,Pest_Severity,Soil_Moisture_%,Soil_Type,Health_Score
+Ficus lyrata,21.65,19,8,Yellowing leaves,98,6,3h direct morning sun,23.2,39.9,Chemical,81,None,Low,42.9,Chalky,3
+Ficus lyrata,21.65,19,8,Yellowing leaves,98,6,3h direct morning sun,23.2,39.9,Chemical,81,None,Low,42.9,Chalky,3
+Ficus lyrata,21.65,19,8,Yellowing leaves,98,6,3h direct morning sun,23.2,39.9,Chemical,81,None,Low,42.9,Chalky,3
+Ficus lyrata,21.65,19,8,Yellowing leaves,98,6,3h direct morning sun,23.2,39.9,Chemical,81,None,Low,42.9,Chalky,3
+Ficus lyrata,21.65,19,8,Yellowing leaves,98,6,Filtered sunlight through curtain,23.2,39.9,Chemical,81,None,Low,42.9,Chalky,3
+Ficus lyrata,21.65,19,8,Yellowing leaves,98,6,Filtered sunlight through curtain,23.2,39.9,Chemical,81,None,Low,42.9,Chalky,3
+Ficus lyrata,21.65,19,8,Yellowing leaves,98,6,Filtered sunlight through curtain,23.2,39.9,Chemical,81,None,Low,42.9,Chalky,3
+Ficus lyrata,21.65,19,8,Yellowing leaves,98,6,Filtered sunlight through curtain,23.2,39.9,Chemical,81,None,Low,42.9,Chalky,3
+Ficus lyrata,21.65,19,8,Yellowing leaves,98,6,3h direct morning sun,23.2,39.9,Chemical,81,None,Low,42.9,Chalky,3
+Ficus lyrata,21.65,19,8,Yellowing leaves,98,6,3h direct morning sun,23.2,39.9,Chemical,81,None,Low,42.9,Chalky,3
+Ficus lyrata,21.65,19,8,Yellowing leaves,98,6,3h direct morning sun,23.1,39.9,Chemical,81,None,Low,42.9,Chalky,3
+Ficus lyrata,21.65,19,8,Yellowing leaves,98,6,3h direct morning sun,23.1,39.9,Chemical,81,None,Low,42.9,Chalky,3
+Ficus lyrata,21.65,19,8,Yellowing leaves,98,6,Filtered sunlight through curtain,23.1,39.9,Chemical,81,None,Low,42.9,Chalky,2
+Ficus lyrata,21.65,19,8,Yellowing leaves,98,6,Filtered sunlight through curtain,23.1,39.9,Chemical,81,None,Low,42.9,Chalky,2
+Ficus lyrata,21.65,19,8,Yellowing leaves,98,6,3h direct morning sun,23.1,39.9,Chemical,81,None,Low,42.9,Chalky,2
+Ficus lyrata,21.65,19,8,Yellowing leaves,98,6,3h direct morning sun,23.2,39.9,Chemical,81,None,Low,42.9,Chalky,3
+Ficus lyrata,21.65,19,8,Yellowing leaves,98,6,3h direct morning sun,23.2,39.9,Chemical,81,None,Low,42.9,Chalky,3
+Ficus lyrata,21.65,19,8,Yellowing leaves,98,6,3h direct morning sun,23.2,39.9,Chemical,81,None,Low,42.9,Chalky,3
+Aloe vera,30,10,2,Healthy,200,7,Indirect light all day,15,50,None,0,No,None,40,Sandy,1
+Aloe vera,30,10,2,Healthy,200,7,Indirect light all day,12,50,None,0,No,None,40,Sandy,1
+Aloe vera,30,10,2,Healthy,200,7,Indirect light all day,9,50,None,0,No,None,40,Sandy,1
+Aloe vera,30,10,2,Healthy,200,7,Filtered sunlight through curtain,10,50,None,0,No,None,40,Sandy,2
+Aloe vera,30,10,2,Healthy,200,7,Filtered sunlight through curtain,15,50,None,0,No,None,40,Sandy,2
+Aloe vera,30,10,2,Healthy,200,7,Filtered sunlight through curtain,16,50,None,0,No,None,40,Sandy,2
+Aloe vera,30,10,2,Healthy,200,7,Filtered sunlight through curtain,15,50,None,0,No,None,40,Sandy,2
+Aloe vera,30,10,2,Healthy,200,7,3h direct morning sun,10,50,None,0,No,None,40,Sandy,3
+Aloe vera,30,10,2,Healthy,200,7,3h direct morning sun,10,50,None,0,No,None,40,Sandy,3
+Aloe vera,30,10,2,Healthy,200,7,3h direct morning sun,20,50,None,0,No,None,40,Sandy,3
+Aloe vera,30,10,2,Healthy,200,7,3h direct morning sun,20,50,None,0,No,None,40,Sandy,3
+Aloe vera,30,10,2,Healthy,200,7,3h direct morning sun,20,50,None,0,No,None,40,Sandy,4
+Aloe vera,30,10,2,Healthy,200,7,6h full sun,20,50,None,0,No,None,40,Sandy,4
+Aloe vera,30,10,2,Healthy,200,7,6h full sun,20,50,None,0,No,None,40,Sandy,4
+Aloe vera,30,10,2,Healthy,200,7,6h full sun,31,50,None,0,No,None,40,Sandy,5
+Aloe vera,30,10,2,Healthy,200,7,6h full sun,32,50,None,0,No,None,40,Sandy,5
+Aloe vera,30,10,2,Healthy,200,7,6h full sun,33,50,None,0,No,None,40,Sandy,5
